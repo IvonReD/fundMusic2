@@ -19,8 +19,7 @@ tableDates.on('value', function(snapshot) { // leer la base de datos
   });
 })
 
-
-var name = prompt("Ingresa tu Nombre:"); // Ingresa nombre elusuario
+var name = prompt("Ingresa tu NiCkNaMe:"); // Ingresa nombre elusuario
 $('#btnEnviar').click(function() {
   var formatoFecha = new Date();
   var day = formatoFecha.getUTCDate();

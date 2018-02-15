@@ -2,10 +2,12 @@ body {
   background-color: black;
   color: #FFFFFF;
 }
+h3{
+  color: white;
+}
 
 .hr-1 {
   border-top: 2px solid #F4D35E;
-  ;
 }
 
 .navbar {
@@ -139,9 +141,24 @@ body {
 
 .registro-b {
   height: 50vh;
-  background-image: url(../assets/img/band.jpg);
+  background-image: url(https://media.giphy.com/media/3og0IUTy80RuWleuRi/giphy.gif);
+   background-repeat: no-repeat;
+  background-size: cover;
 }
-
+.registro-f{
+  height: 50vh;
+  background-image: url(http://fundacioncompartir.org/sites/default/files/styles/slick_600x320/public/las-fundaciones-trabajan-en-el-noveno-objetivo-de-desarrollo-sostenible.jpg?itok=s5UoTBie);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.p-t{
+  padding-top: 20vh;
+}
+.thumbnail>img{
+  padding-top: 30px;
+  width: :70vh;
+  height: 50vh;
+}
 .registro-text {
   color: white;
 }
@@ -213,4 +230,43 @@ body>div>div>div.col-sm-5>div>div.panel-body>ul {
 ::-webkit-scrollbar-thumb {
   background: #F4D35E;
   border-radius: 10px;
+}
+
+/*MODAL*/
+.modal-body,.modal-header, .modal-footer{
+    background-color: black;
+    color: #F4D35E;
+}
+
+.inner-addon{
+    position: relative;
+}
+.right-addon .glyphicon{
+    right: 0px;
+}
+.right-addon input{
+    padding-right: 30px;
+}
+
+/*NOSOTROS*/
+#nosotros{
+  text-align: center;
+  font-size: 25px;
+  margin:
+
+}
+#nosotros.div{
+  margin: auto;
+}
+#nosotros> h1{
+  color: #F4D35E;
+}
+.seccion{
+    height: 80vh;
+}
+.nosotros-bg{
+   height: 50vh;
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://media.giphy.com/media/3oEduXeT0j1Bl5uWHK/giphy.gif);
 }
