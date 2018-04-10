@@ -27,7 +27,20 @@ https://es.surveymonkey.com/r/25PPXP3
 
 ![Arquitectura de la información](assets/img/arquitectura.png)
 
-3.- Depues, hemos creado el mockup con cinco diferentes vistas.
+
+3.- Las herramientas utilizadas son:
+
+
+    - HTML
+    - CSS3
+    - Bootstrap
+    - Jquery
+    - Firebase
+    - Google calendar
+    - Spotify
+
+
+4.- Depues, hemos creado el mockup con cinco diferentes vistas.
 
 ** Primer vista (Home):**
 
@@ -65,8 +78,8 @@ Y por último la fundación podrá encontrar una sección de contacto y redes so
 
 ![Primer vista](assets/img/vista5.png)
 
-<<<<<<< HEAD
-4.- Por último, realizamos un testing en el cúal se han definido la siguiente paleta de colores para plasmarlo en su primer diseño de interfaz.
+
+5.- Por último, realizamos un testing en el cúal se han definido la siguiente paleta de colores para plasmarlo en su primer diseño de interfaz.
 
 
 **Paleta de colores**
@@ -76,7 +89,7 @@ Y por último la fundación podrá encontrar una sección de contacto y redes so
 **Primer diseño**
 
 ![Primer vista](assets/img/fundmusic1.jpg)
-=======
+
 
 ## WIREFRAME
 ![wireframe](assets/img/fundmusic.jpg)
@@ -84,4 +97,7 @@ Y por último la fundación podrá encontrar una sección de contacto y redes so
 ## PALETA DE COLORES
 ![Paleta de colores](assets/img/paleta.jpg)
 
->>>>>>> fb1f81b895a4255f95c7517339bae06a88aa369c
+
+
+###### Elaborado por y con:
+Laboratoria.
