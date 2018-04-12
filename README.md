@@ -6,6 +6,9 @@
 
 #### La idea surgió a partir de impulsar el talento mexicano a abrirse paso en el ambito músical y recibir reconocimiento. Y para ésto FundMusic planteó que la mejor manera de lograrlo era creando una plataforma digital en la que tanto bandas, como fundaciones, pudieran resgistrarse para participar en este proyecto y obtener un beneficio mutuo. Ofreciendo también un espacio en el que los usuarios pudieran compartir sus experiencias y sus fotos, además de que pudieran escuchar un poco de la música que cada banda tocaría en sus conciertos y de ésta manera engancharlos a comprar sus boletos.
 
+**Primer diseño**
+
+![principal](https://user-images.githubusercontent.com/32873187/38657952-7e7ff844-3de8-11e8-9785-0f860ff86506.jpg)
 
 1. Para desarrollar este proyecto hemos realizado un cronograma con el plan de trabajo y un research para nuestros 3 diferentes perfiles: usuarios, bandas y fundaciones.
 
@@ -80,15 +83,6 @@ Y por último la fundación podrá encontrar una sección de contacto y redes so
 
 
 5.- Por último, realizamos un testing en el cúal se han definido la siguiente paleta de colores para plasmarlo en su primer diseño de interfaz.
-
-
-**Paleta de colores**
-
-![Primer vista](assets/img/paleta.jpg)
-
-**Primer diseño**
-
-![principal](https://user-images.githubusercontent.com/32873187/38657952-7e7ff844-3de8-11e8-9785-0f860ff86506.jpg)
 
 
 ## WIREFRAME
