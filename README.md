@@ -1,6 +1,6 @@
 
 
-#FundMusic
+# FundMusic
 
 ## FundMusic es una plataforma digital dedicada a apoyar fundaciones con causa por medio de conciertos de beneficencia.
 
@@ -88,7 +88,7 @@ Y por último la fundación podrá encontrar una sección de contacto y redes so
 
 **Primer diseño**
 
-![Primer vista](assets/img/fundmusic1.jpg)
+![Primer vista](https://raw.githubusercontent.com/IvonReD/fundMusic2/master/assets/img/fundmusic1.jpg)
 
 
 ## WIREFRAME
