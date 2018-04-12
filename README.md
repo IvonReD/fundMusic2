@@ -88,7 +88,7 @@ Y por último la fundación podrá encontrar una sección de contacto y redes so
 
 **Primer diseño**
 
-![Primer vista](https://raw.githubusercontent.com/IvonReD/fundMusic2/master/assets/img/fundmusic1.jpg)
+![Primer vista](https://raw.githubusercontent.com/IvonReD/fundMusic2/master/assets/img/principal.jpg)
 
 
 ## WIREFRAME
